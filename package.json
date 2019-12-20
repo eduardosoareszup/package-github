@@ -1,22 +1,24 @@
 {
-  "name": "package-privado",
-  "version": "1.0.0",
+  "name": "package-github",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@eduardosoareszup" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@eduardosoareszup"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eduardosoareszup/package-privado.git"
+    "url": "git+https://github.com/eduardosoareszup/package-github.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eduardosoareszup/package-privado/issues"
+    "url": "https://github.com/eduardosoareszup/package-github/issues"
   },
-  "homepage": "https://github.com/eduardosoareszup/package-privado#readme",
+  "homepage": "https://github.com/eduardosoareszup/package-github#readme",
   "dependencies": {
     "moment": "^2.24.0"
   }
