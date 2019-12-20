@@ -1,0 +1,22 @@
+{
+  "name": "package-privado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardosoareszup/package-privado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardosoareszup/package-privado/issues"
+  },
+  "homepage": "https://github.com/eduardosoareszup/package-privado#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
